@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshdeep Parmar
-- 👀 I’m interested in Machine Learning in Audio.
-- 🌱 I’m currently learning to develop an algorithm which can visualise music through colours.
-- 💞️ I’m looking to collaborate on Stable Diffusion, VAEs and Spotify Open Source
+- 👀 I’m interested in applying Machine Learning to Specch & Audio.
+- 🌱 I’m currently developing an algorithm which can visualise music through colours intuitively.
+- 💞️ I’m looking to collaborate on using Diffusion models for music, VAEs and Spotify Open Source.
 - 📫 If you want to have a chat you can reach me at hdp.1798@gmail.com
 
 <!---
