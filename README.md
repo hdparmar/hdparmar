@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshdeep Parmar
-- 🔍 I’m passionate about applying Machine Learning to Speech & Audio domains.
+- 🔍 I’m passionate about Embedded Systems & Machine Learning.
 - 🚀 I’m currently developing an algorithm which can visualise music through colours intuitively.
-- 🤝 I’m looking to collaborate on using Diffusion models for music, VAEs and Spotify Open Source.
+- 🤝 I’m looking to collaborate on Edge ML & Diffusion models, VAEs for Image & Audio.
 - 📫 Feel free to reach out and chat @ hdp.1798@gmail.com
 
 <!---
