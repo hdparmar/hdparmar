@@ -7,8 +7,6 @@
 - 🚀 Currently, I am working on creating an advanced audio manipulation device for real-time, interactive sound transformation.
   
 - 🤝 I’m open to collaboration on interesting projects involving Images, Audio, IoT, Edge ML & DL or everything in one.
-  
-- 📫 Reach me at hdp.1798@gmail.com
 
 <!---
 hdparmar/hdparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
