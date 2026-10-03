@@ -1,14 +1,9 @@
-- 👋 Hi, I’m Harshdeep Parmar
-  
-- 🔖 I like to code, read, write poetry and play chess.
-  
-- 🔍 I’m passionate about Embedded Systems & and everything that is associated with it, and continually seeking to blend software and hardware in innovative ways.
-  
-- 🚀 Currently, I am working on creating an advanced audio manipulation device for real-time, interactive sound transformation.
-  
-- 🤝 I’m open to collaboration on interesting projects involving Images, Audio, IoT, Edge ML & DL or everything in one.
+### Hi, I'm Harshdeep
 
-<!---
-hdparmar/hdparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an embedded engineer in Stockholm, and most of what I build listens. Microphones on STM32 and ESP32 boards, signal processing that has to fit in a few kilobytes, small models running where there's no room for big ones. When a project needs more space, I reach for embedded Linux.
+
+Right now I'm writing firmware for lights that react to sound, making [Nadilo](https://tonestruments.se), a game that teaches beat-making by ear, and teaching myself embedded Linux from the ground up on a tiny Milk-V Duo.
+
+Before that I worked on spatial audio at ORB, on a Buildroot platform. During my master's at KTH I got audio models running on microcontrollers, and for my thesis I fine-tuned Riffusion on Irish traditional music ([Tradi-fusion](https://github.com/hdparmar/Tradifusion)).
+
+I also shoot film and write. Both live on [hdparmar.github.io](https://hdparmar.github.io).
